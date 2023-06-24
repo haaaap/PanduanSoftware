@@ -1,4 +1,3 @@
 # Panduan Software Umum
-Panduan ini adalah kumpulan tutorial untuk memasang sejumlah software yang dibutuhkan seseorang pada laptop mereka.
-
+This Guide is a collection of tutorials to install some common software on a computer.
 
